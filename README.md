@@ -58,6 +58,21 @@ QA Engineer: Ensures the backend functionalities are thoroughly tested and meet 
 
 4.Reviews
 
-5. Payments
+5.Payments
+
+#Feature Breakdown
+
+User Management
+
+Property Management
+
+Booking System
+
+Payment Processing
+
+Review System
+
+Data Optimization
+
 
 

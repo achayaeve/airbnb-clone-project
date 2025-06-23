@@ -17,7 +17,7 @@ The Airbnb Clone Project is a comprehensive, real-world application designed to 
 
 6.Data Optimization: Ensure efficient data retrieval and storage through database optimizations.
 
-#Tech Stack
+#Technology Stack
 
 Django: A high-level Python web framework used for building the RESTful API.
 

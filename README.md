@@ -74,5 +74,41 @@ Review System
 
 Data Optimization
 
+#API Security
 
+Authentication : Verifying the identity of users (e.g., through passwords, biometrics, multi-factor authentication).
+
+                Why important: Ensures that only legitimate users access the system, protecting user data and preventing unauthorized activities.
+
+Authorization : Defining what an authenticated user can or cannot do (e.g., role-based access control).
+
+                Why important: Limits the scope of actions users can perform, protecting sensitive areas like admin controls, financial transactions, or personal data.
+
+Rate Limiting & Throttling : Controlling the number of requests a user or service can make in a given time frame.
+
+                Why important: Protects the system from abuse (e.g., brute force attacks, denial-of-service attacks) and ensures service availability for all users.
+
+Data Encryption (at rest & in transit) : Encrypting data when stored in databases and when transmitted over networks.
+
+                Why important: Protects user data (including sensitive and financial information) from interception or theft by attackers.
+
+Input Validation & Sanitization : Ensuring user inputs are clean and follow expected formats.
+
+                Why important: Prevents injection attacks (e.g., SQL injection, XSS), which can compromise data integrity and expose vulnerabilities.
+
+Logging & Monitoring : Keeping detailed logs of system activities and monitoring them in real-time.
+
+                Why important: Detects suspicious activities early, aids in incident response, and provides an audit trail for forensic analysis.
+
+Secure APIs : Implementing security best practices in API development (e.g., authentication tokens, input validation, CORS).
+
+                Why important: Prevents unauthorized API access and protects back-end systems and user data.
+
+Session Management : Handling user sessions securely (e.g., session timeouts, secure cookies).
+
+                Why important: Protects users from session hijacking and prevents long-lasting unauthorized access.
+
+Regular Security Patching & Updates : Keeping all software components updated with the latest security patches.
+
+                Why important: Closes known vulnerabilities that attackers can exploit, maintaining system integrity.
 

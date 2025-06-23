@@ -47,6 +47,17 @@ DevOps Engineer: Handles deployment, monitoring, and scaling of the backend serv
 QA Engineer: Ensures the backend functionalities are thoroughly tested and meet quality standards.
 
 
+#Database Design
 
+1.Users - A user can have multiple properties
+        - A user can make several reviews on one property
+
+2.Properties
+
+3.Bookings
+
+4.Reviews
+
+5. Payments
 
 

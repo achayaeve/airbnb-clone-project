@@ -36,7 +36,7 @@ Docker: Containerization tool for consistent development and deployment environm
 CI/CD Pipelines: Automated pipelines for testing and deploying code changes.
 
 
-#Tech Roles
+#Team Roles
 
 Backend Developer: Responsible for implementing API endpoints, database schemas, and business logic.
 
